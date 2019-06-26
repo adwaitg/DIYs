@@ -7,7 +7,8 @@ server to the local devices. Notifications also work in a similar fashion.
 
 There is a huge security risk you are taking on in all of this - if any of these systems (cloud server/IoT home
 automation devices) get compromised, you open up your local network to intruders. Today, there are ton of such cheap
-automation devices available (wifi/bluetooth/zwave bulbs, door sensors, wifi cameras etc) that have a very low bar for security.
+automation devices available (wifi/bluetooth/zwave bulbs, door sensors, wifi cameras etc) that have a very low bar for
+security.
 
 I didn't want to use any of these commercial off-the-shelf products for home automation, so I setup Home Assistant
 (https://www.home-assistant.io/) on Raspberry Pi. There are numerous tutorials and config files availabe on github
